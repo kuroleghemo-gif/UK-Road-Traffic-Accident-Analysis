@@ -31,7 +31,7 @@ The primary objectives include:
 ## Data Summary
 Source: Provided by 10Alytics as part of training and research programme, comprising the UK Road Traffic Accident Records (2021-2022)
 Size: 307,972 rows and 21 columns (numerical and categorical)
-Key variables: Accident severity, speed limit, weather conditions, road surface conditions, light conditions, settlement area, number of casualties, junction control, coordinates, vehicle type
+Key variables: Accident severity, speed limit, weather conditions, road surface conditions, light conditions, settlement area, number of casualties, junction control, coordinates, vehicle type.
 
 ## Skills and Technologies
 - Microsoft Excel - SUBSTITUTE(), TEXT(), XLOOKUP(), IFERROR()
@@ -60,7 +60,7 @@ The following extensive preprocessing was to the dataset to improve analytical q
 - Slight Injuries: 263,279
 - Vehicles Involved: 563,301
 
-- Casualty distribution showed strong right skewness, with most accidents involving a single casualty (mean casualties)  — a small number of high-impact events inflate the mean significantly. Speed limit clusters around 30 mph (mean speed 38.87) with a long tail toward higher limits
+- Casualty distribution showed strong right skewness, with most accidents involving a single casualty (mean casualties)  — a small number of high-impact events inflate the mean significantly. Speed limit clusters around 30 mph (mean speed 38.87) with a long tail toward higher limits.
 
 #### Temporal Patterns
 - Accident frequency peaked during afternoons and evenings, 4 pm–8 pm being the most dangerous time band
