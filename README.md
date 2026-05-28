@@ -34,20 +34,14 @@ Size: 307,972 rows and 21 columns (numerical and categorical)
 Key variables: Accident severity, speed limit, weather conditions, road surface conditions, light conditions, settlement area, number of casualties, junction control, coordinates, vehicle type
 
 ## Skills and Technologies
-##### • Microsoft Excel - SUBSTITUTE(), TEXT(), XLOOKUP(), IFERROR()
+- Microsoft Excel - SUBSTITUTE(), TEXT(), XLOOKUP(), IFERROR()
 ##### • Pivot Tables
 ##### • Pivot Charts
 ##### • Descriptive Statistics
 ##### • Interactive Dashboarding - slicers, dynamic charts, KPI tiles, interactive filters
 ##### • Leadership and Cross-functional collaboration: led a 6-member analytics team to develop this deliver this project
 ##### • Stakeholder presentation delivery
-
-#### Analytical Techniques
-
-##### • KPI Development
-##### • Trend Analysis
 ##### • Data Visualization
-##### • Heat Map Analysis
 
 ## Data Preprocessing
 The following extensive preprocessing was to the dataset to improve analytical quality and reporting consistency:
