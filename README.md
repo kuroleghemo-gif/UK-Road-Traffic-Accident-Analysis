@@ -35,7 +35,7 @@ Key variables: Accident severity, speed limit, weather conditions, road surface 
 
 ## Skills and Technologies
 - Microsoft Excel - SUBSTITUTE(), TEXT(), XLOOKUP(), IFERROR()
-##### • Pivot Tables
+- Pivot Tables
 ##### • Pivot Charts
 ##### • Descriptive Statistics
 ##### • Interactive Dashboarding - slicers, dynamic charts, KPI tiles, interactive filters
