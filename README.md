@@ -59,29 +59,23 @@ The following extensive preprocessing was to the dataset to improve analytical q
 
 ## Key Insights
 #### Key Metrics
-##### • Total Accidents: 307,972
-##### • Total Casualties: 417,882
-##### • Fatal Injuries: 3,953
-##### • Serious Injuries: 40,740
-##### • Slight Injuries: 263,279
-##### • Vehicles Involved: 563,301
-
-#### Descriptive statistics
-Variable             Mean    Median   Std Dev   Range   Skewness
-─────────────────────────────────────────────────────────────────
-No. of casualties    1.36    1        0.82      47      5.69
-Speed limit (mph)   38.87   30       14.03      60      1.14
+###### • Total Accidents: 307,972
+###### • Total Casualties: 417,882
+###### • Fatal Injuries: 3,953
+###### • Serious Injuries: 40,740
+###### • Slight Injuries: 263,279
+###### • Vehicles Involved: 563,301
 
 • Casualty distribution showed strong right skewness, with most accidents involving a single casualty (mean casualties)  — a small number of high-impact events inflate the mean significantly. Speed limit clusters around 30 mph (mean speed 38.87) with a long tail toward higher limits
 
 #### Temporal Patterns
-######• Accident frequency peaked during afternoons and evenings, 4 pm–8 pm being the most dangerous time band
-######• Friday recorded the highest daily volume, driven by end-of-week traffic surges
-######• Accident frequency peaked in October–November, consistent with reduced daylight and worsening weather
+###### • Accident frequency peaked during afternoons and evenings, 4 pm–8 pm being the most dangerous time band
+###### • Friday recorded the highest daily volume, driven by end-of-week traffic surges
+###### • Accident frequency peaked in October–November, consistent with reduced daylight and worsening weather
 
 #### Speed and accident severity
-######• Higher speed roads (50–70 mph) showed stronger associations with serious and fatal injuries
-######• 30 mph zones accounted for the highest total volume (~200,000+), reflecting dense urban traffic concentration
+###### • Higher speed roads (50–70 mph) showed stronger associations with serious and fatal injuries
+###### • 30 mph zones accounted for the highest total volume (~200,000+), reflecting dense urban traffic concentration
 
 #### Environmental Conditions
 Urban settlements (64%) recorded substantially more accidents than rural regions (36%) even though rural was generally more severe
@@ -89,21 +83,21 @@ Most accidents occurred on dry roads; however, adverse weather and poor lighting
 
 ## Actionable Recommendations
 #### Policy measures
-######• Enforce 30 mph speed management in urban and residential areas with cameras and speed bumps
-######• Introduce stiffer penalties for repeat traffic offenders
-######• Deploy additional traffic patrol officers in November, the peak accident month
+###### • Enforce 30 mph speed management in urban and residential areas with cameras and speed bumps
+###### • Introduce stiffer penalties for repeat traffic offenders
+###### • Deploy additional traffic patrol officers in November, the peak accident month
 
 #### Infrastructure Improvements
-######• Improve junction visibility and signage
-######• Improve night-time street lighting along darkness hotspot corridors
-######• Increase snowplow capacity in rural areas for winter conditions
-######• Deploy smart traffic signals and automated control at peak-hour bottlenecks
-######• Expand pedestrian and cycling infrastructure in urban accident clusters
+###### • Improve junction visibility and signage
+###### • Improve night-time street lighting along darkness hotspot corridors
+###### • Increase snowplow capacity in rural areas for winter conditions
+###### • Deploy smart traffic signals and automated control at peak-hour bottlenecks
+###### • Expand pedestrian and cycling infrastructure in urban accident clusters
 
 #### Public Awareness
-######• Launch campaigns targeting speed awareness in 50–70 mph zones, wet-weather driving, and night-time risk
-######• Implement school-zone safety programmes in high-density urban accident clusters
-######• Run seasonal campaigns ahead of the October–November high-risk period
+###### • Launch campaigns targeting speed awareness in 50–70 mph zones, wet-weather driving, and night-time risk
+###### • Implement school-zone safety programmes in high-density urban accident clusters
+###### • Run seasonal campaigns ahead of the October–November high-risk period
 
 ## Conclusions
 The analysis revealed clear patterns in UK road accidents, showing that factors such as speed limits, weather conditions, lighting, and road surface conditions significantly influence accident severity.
