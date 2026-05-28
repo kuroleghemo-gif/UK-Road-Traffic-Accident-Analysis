@@ -16,7 +16,7 @@ End-to-end data analytics project focused on uncovering accident trends, severit
 This project covers advanced Excel analytics including data cleaning, descriptive statistics, KPI development, an interactive Excel dashboard, and business-focused storytelling to support evidence-based road safety decisions.
 
 ## Business Problem
-Road accidents remain a critical public safety concern in the UK. Despite the availability of large-scale government datasets, the data exists in unstructured formats that make it difficult for stakeholders — policymakers, traffic authorities, and urban planners - to extract actionable insights. 
+Road accidents remain a critical public safety concern in the UK. Despite the availability of large-scale government datasets, the data exists in unstructured formats that make it difficult for stakeholders (policymakers, traffic authorities, and urban planners), to extract actionable insights. 
 This project addresses that challenge by transforming raw accident records into an interactive analytical solution to inform targeted safety interventions.
 
 ## Project Objectives
