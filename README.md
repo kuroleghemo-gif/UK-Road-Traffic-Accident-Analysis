@@ -52,7 +52,7 @@ The following extensive preprocessing was to the dataset to improve analytical q
 - Structured categorical variables for dashboard interaction
 
 ## Key Insights
-#### Key Metrics
+#### Summary Metrics
 - Total Accidents: 307,972
 - Total Casualties: 417,882
 - Fatal Injuries: 3,953
@@ -60,7 +60,7 @@ The following extensive preprocessing was to the dataset to improve analytical q
 - Slight Injuries: 263,279
 - Vehicles Involved: 563,301
 
-• Casualty distribution showed strong right skewness, with most accidents involving a single casualty (mean casualties)  — a small number of high-impact events inflate the mean significantly. Speed limit clusters around 30 mph (mean speed 38.87) with a long tail toward higher limits
+- Casualty distribution showed strong right skewness, with most accidents involving a single casualty (mean casualties)  — a small number of high-impact events inflate the mean significantly. Speed limit clusters around 30 mph (mean speed 38.87) with a long tail toward higher limits
 
 #### Temporal Patterns
 - Accident frequency peaked during afternoons and evenings, 4 pm–8 pm being the most dangerous time band
